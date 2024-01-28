@@ -24,6 +24,12 @@
   - `OpenCore` `v0.6.6`
 - 6-17-2020
   - Fixed USB disconnection issue caused by insufficient power supply
+  - 
+# BIOS Settings:
+
+1) Update BIOS to M1AKT51A
+2) DVMT to 128M
+3) Disable CSM
 
 ## Screenshots
 
